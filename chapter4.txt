@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 name:Dishant
 id:12EDF4
 gender:male
 Designation:Junior backened developer
+=======
+name:Damayanti
+id:34ERD0
+gender:female
+designation:CFO
+>>>>>>> entry
